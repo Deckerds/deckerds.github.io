@@ -20,6 +20,7 @@ body {
   overflow: hidden;
 }
 
+/* card header */
 .cardheader {
   background-image: url("/images/bg.jpg");
   width: 500px;
