@@ -20,6 +20,7 @@ body {
   overflow: hidden;
 }
 
+/* card header */
 .cardheader {
   background-image: url("/images/bg.jpg");
   width: 500px;
@@ -54,6 +55,14 @@ body {
   font-family: "Raleway", sans-serif;
   font-weight: 200;
   font-size: 20px;
+  color: rgba(240, 248, 255, 0.466);
+}
+
+.headerh5 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 200;
+  font-size: 18px;
+  opacity: 0.3;
   color: rgba(240, 248, 255, 0.466);
 }
 
